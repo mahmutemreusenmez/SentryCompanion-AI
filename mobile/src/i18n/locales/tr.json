@@ -1,0 +1,35 @@
+{
+  "common": {
+    "yes": "Evet",
+    "no": "Hayır",
+    "cancel": "İptal",
+    "confirm": "Onaylıyorum"
+  },
+  "login": {
+    "title": "Hekim Girişi",
+    "tcPlaceholder": "T.C. Kimlik No",
+    "passwordPlaceholder": "Şifre",
+    "loginButton": "Giriş Yap",
+    "guestButton": "BebekNöbeti (Hasta/Lohusa Girişi)",
+    "errorTitle": "Hata",
+    "errorMessage": "Hatalı T.C. Kimlik veya Şifre!"
+  },
+  "bebekNobeti": {
+    "title": "BebekNöbeti",
+    "description": "Lohusa annelerimiz için canlı ebe ve hemşire desteği.",
+    "startCall": "Görüntülü/Sesli Canlı Destek",
+    "alert1Title": "Canlı ebe desteği başlatılsın mı?",
+    "alert2Title": "Ebe ile canlı görüşme başlatılıyor. Onaylıyor musunuz?",
+    "calling": "Canlı destek görüşmesi devam ediyor... (WebRTC Simülasyonu)",
+    "endCall": "Görüşmeyi Sonlandır"
+  },
+  "hekimNobeti": {
+    "title": "HekimNöbeti Paneli",
+    "highRisk": "YÜKSEK RİSK!",
+    "normal": "Normal",
+    "observe": "Gözlem Öner",
+    "updatePrescription": "Reçete Güncelle",
+    "callAmbulance": "Acil Ambulans Yönlendir",
+    "actionTitle": "İşlem Başarılı"
+  }
+}

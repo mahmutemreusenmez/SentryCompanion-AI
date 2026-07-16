@@ -1,0 +1,35 @@
+{
+  "common": {
+    "yes": "نعم",
+    "no": "لا",
+    "cancel": "إلغاء",
+    "confirm": "تأكيد"
+  },
+  "login": {
+    "title": "تسجيل دخول الطبيب",
+    "tcPlaceholder": "رقم الهوية",
+    "passwordPlaceholder": "كلمة المرور",
+    "loginButton": "تسجيل الدخول",
+    "guestButton": "BebekNöbeti (دخول المريض/الأم)",
+    "errorTitle": "خطأ",
+    "errorMessage": "رقم الهوية أو كلمة المرور غير صالحة!"
+  },
+  "bebekNobeti": {
+    "title": "مراقبة الطفل",
+    "description": "دعم مباشر من القابلة والممرضة للأمهات بعد الولادة.",
+    "startCall": "دعم مباشر فيديو/صوت",
+    "alert1Title": "هل تريد بدء دعم القابلة المباشر؟",
+    "alert2Title": "جاري بدء المكالمة المباشرة مع القابلة. هل توافق؟",
+    "calling": "مكالمة الدعم المباشر قيد التقدم... (محاكاة WebRTC)",
+    "endCall": "إنهاء المكالمة"
+  },
+  "hekimNobeti": {
+    "title": "لوحة الطبيب",
+    "highRisk": "خطر كبير!",
+    "normal": "طبيعي",
+    "observe": "اقتراح المراقبة",
+    "updatePrescription": "تحديث الوصفة الطبية",
+    "callAmbulance": "استدعاء سيارة إسعاف",
+    "actionTitle": "نجاح العملية"
+  }
+}

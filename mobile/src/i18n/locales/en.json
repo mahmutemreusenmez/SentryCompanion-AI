@@ -1,0 +1,35 @@
+{
+  "common": {
+    "yes": "Yes",
+    "no": "No",
+    "cancel": "Cancel",
+    "confirm": "Confirm"
+  },
+  "login": {
+    "title": "Physician Login",
+    "tcPlaceholder": "Identity Number",
+    "passwordPlaceholder": "Password",
+    "loginButton": "Login",
+    "guestButton": "BebekNöbeti (Patient/Mother Login)",
+    "errorTitle": "Error",
+    "errorMessage": "Invalid Identity or Password!"
+  },
+  "bebekNobeti": {
+    "title": "BabyWatch (BebekNöbeti)",
+    "description": "Live midwife and nurse support for postpartum mothers.",
+    "startCall": "Video/Audio Live Support",
+    "alert1Title": "Start live midwife support?",
+    "alert2Title": "Starting live call with midwife. Do you confirm?",
+    "calling": "Live support call in progress... (WebRTC Simulation)",
+    "endCall": "End Call"
+  },
+  "hekimNobeti": {
+    "title": "Physician Panel",
+    "highRisk": "HIGH RISK!",
+    "normal": "Normal",
+    "observe": "Suggest Observation",
+    "updatePrescription": "Update Prescription",
+    "callAmbulance": "Call Emergency Ambulance",
+    "actionTitle": "Action Successful"
+  }
+}
